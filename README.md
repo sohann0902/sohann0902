@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohann0902
+- 👋 Hi, I’m Sohan Maurya
 
 <!--- gif --->
 <p align="center">
